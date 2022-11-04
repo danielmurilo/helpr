@@ -1,5 +1,6 @@
 package org.soulcodeacademy.helpr;
 
+import org.soulcodeacademy.helpr.services.PopulateService;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
